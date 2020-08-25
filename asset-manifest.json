@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matthewkwap/mect.git/static/css/main.cdd75614.chunk.css",
+    "main.js": "/matthewkwap/mect.git/static/js/main.95d94c6a.chunk.js",
+    "main.js.map": "/matthewkwap/mect.git/static/js/main.95d94c6a.chunk.js.map",
+    "runtime-main.js": "/matthewkwap/mect.git/static/js/runtime-main.44e67733.js",
+    "runtime-main.js.map": "/matthewkwap/mect.git/static/js/runtime-main.44e67733.js.map",
+    "static/js/2.b3661ddd.chunk.js": "/matthewkwap/mect.git/static/js/2.b3661ddd.chunk.js",
+    "static/js/2.b3661ddd.chunk.js.map": "/matthewkwap/mect.git/static/js/2.b3661ddd.chunk.js.map",
+    "index.html": "/matthewkwap/mect.git/index.html",
+    "precache-manifest.ca43211b91c5e74f6b846e29e53d1764.js": "/matthewkwap/mect.git/precache-manifest.ca43211b91c5e74f6b846e29e53d1764.js",
+    "service-worker.js": "/matthewkwap/mect.git/service-worker.js",
+    "static/css/main.cdd75614.chunk.css.map": "/matthewkwap/mect.git/static/css/main.cdd75614.chunk.css.map",
+    "static/js/2.b3661ddd.chunk.js.LICENSE.txt": "/matthewkwap/mect.git/static/js/2.b3661ddd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e67733.js",
+    "static/js/2.b3661ddd.chunk.js",
+    "static/css/main.cdd75614.chunk.css",
+    "static/js/main.95d94c6a.chunk.js"
+  ]
+}
